@@ -1,3 +1,3 @@
-export {Compiler} from "./src/compiler/Compiler";
-export {CompilerOptions} from "./src/compiler/CompilerOptions";
-export {CompilerFactory} from "./src/compiler/CompilerFactory";
+export {Compiler} from "./src/compiler/Parser";
+export {CompilerOptions} from "./src/compiler/ParserOptions";
+export {CompilerFactory} from "./src/compiler/ParserFactory";

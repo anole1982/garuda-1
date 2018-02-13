@@ -81,6 +81,7 @@
     "webpack-merge": "^4.1.1"
   },
   "dependencies": {
-    "@bizfty/logger": "0.0.2"
+    "@bizfty/logger": "0.0.2",
+    "htmlparser2": "^3.9.2"
   }
 }
